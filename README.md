@@ -3,7 +3,12 @@
 The Micro Consen kernel is an advanced modular TurboWarp kernel featuring built-in support for a filesystem, account managment, and more!
 
 # Version hierarchy
-Major releases of the Micro Consen kernel are marked as new RCs. The current newest RC is **RC Nitrogen**.
+Major releases of the Micro Consen kernel are marked by the naming scheme. Newest versions use the "R(year).(month)" scheme, while older versions are denoted with "RC (codename)".
+
+> If you're upgrading from RC to R26 or newer, **please read the comments in the project** to ensure you migrate to a newer kernel correctly!
+
+The current newest release is **R26**.
+- **R26.01 (RC Oxygen):** `r26.01.x`
 - **RC Nitrogen:** `53xx-nitrogen`
 - **RC Helium:** `52xx-helium`
 - **RC Hydrogen:** `51xx-hydrogen`
